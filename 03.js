@@ -1,9 +1,5 @@
 function ganjinGenap(no) {
-    if(no % 2 === 0){
-        return "GENAP"
-    }else{
-        return "GANJIL"
-    }
+    return (no % 2 === 0) ? "GANJIL" : "GENAP"
 }
 
 console.log(ganjinGenap(43));
