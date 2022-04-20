@@ -1,5 +1,5 @@
 
-## 🚀 Training KIt 4 - Sabda Perdana Hutabarat
+## 🚀 Training Kit 4 - Sabda Perdana Hutabarat
 
 
 
